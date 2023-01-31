@@ -1,0 +1,207 @@
+/*start header section*/
+.header{
+    background-image: url(../css/img/glass.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*end header section*/
+/*start nav section*/
+.img-nav{
+    width: 120px;
+    height: 85px;
+}
+.nav-link{
+    font-size: 25px;
+    font-family: cursive;
+    margin-right: 30px;
+}
+
+/*end nav section*/
+.text-goal h2{
+font-size: 25px;
+font-family: cursive;
+line-height: 1.5;
+text-align: center;
+color:#000;
+margin-top: 40px;
+
+}
+.text-goal input{
+    
+  padding-left: 32px;
+  width: 548px;
+  border-radius: 50px;
+  padding: 13px 10px;
+  position: absolute;
+  left: 21%;
+  border: none;
+  margin-top: 70px;
+  font-family: cursive;
+}
+.text-goal .fa-search{
+font-weight: 900;
+position: absolute;
+top: 113%;
+left: 22%;
+font-size: 15px;
+color: red;
+}
+.text-goal .btn-primary{
+position: absolute;
+left: 60%;
+top: 134%;
+border-radius: 50px;
+font-size: 15px;
+padding: 10px;
+background-color: #007bff;
+}
+/*start icon section*/
+.icon-goal{
+  margin-top: 13%;
+display: flex;
+padding: 5px;
+color: rgb(1, 0, 0);
+
+}
+.icon-goal p{
+font-size: 20px;
+font-family: cursive;
+}
+.icon-goal i{
+margin-top: 1px;
+margin-right: 13px;
+font-size: 35px;
+}
+/*end icon section*/
+/*start read section*/
+.read{
+margin-top: 300px;
+position: relative;
+margin-bottom: 50px;
+}
+.img-read{
+width: 80%;
+height: 350px;
+z-index: 222;
+}
+.img-read2, .img-read3{
+width: 100px !important;
+height: 120px !important;
+left: -11%;
+top: 65%;
+z-index: -1;
+position: absolute;
+}
+
+.img-read3{
+top: 10px;
+width: 70px !important;
+height: 25px !important;
+}
+p{
+    font-size: 20px;
+    font-family: cursive;
+    line-height: -1.5px;
+}
+
+/*end read section*/
+
+/*start feature section*/
+.feature{
+margin-top: 8%;
+background-color:#8eb6d9;
+padding: 40px;
+padding-top: 50px;
+}
+.feature-text{
+ font-size: 20px;
+ font-family: cursive;
+ margin-bottom: 50px; 
+ color: #322e2e;
+ margin-top: -85px;
+}
+.feature-img{
+width: 75%;
+margin-bottom: 20px;
+}
+.feature .card{
+display: flex;
+justify-content: center;
+padding: 20px 10px;
+border-radius: 15px;
+height: 450px;
+margin-bottom: 20px;
+margin-right: 25px;
+background-color:aliceblue;
+}
+/*end feature section*/
+/*start goal section*/
+.goal-text{
+margin-top: 150px;
+margin-bottom: 50px;
+}
+
+.img-goal{
+width: 90%;
+height: 90%;
+margin-right: 70px;
+margin-bottom: 50px;
+}
+.text-goal{
+  font-size: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+/*end goal section*/
+/*start operational section*/
+.operational-text{
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+.text-operational{
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-right: 50px;
+margin-bottom: 50px;
+}
+.img-operational{
+  width: 110%;
+  margin-left: 40px;
+  margin-bottom: 50px;
+}
+/*end operational section*/
+
+/*start studient section*/
+footer{
+background-color: #0F7B65;
+color: white;
+margin-top: 50px;
+padding: 70px 100px;
+border-radius: 25px;
+margin-bottom: 50px;
+}
+footer.row>div h2{
+margin-right: 30px;
+font-size: 25px;
+font-family: cursive;
+}
+
+footer .row>div h3 {
+  color: #F48E7F;
+  margin-bottom: 30px;
+}
+footer i {
+  padding-left: 20px;
+  font-size: 20px;
+}
+p{
+  padding-top: 80px;
+}
+footer.row>div ul li a {
+text-decoration: none;
+color: #fff !important;
+}
+
+/*end studient section*/

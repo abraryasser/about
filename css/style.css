@@ -1,0 +1,134 @@
+ /*start nav section*/
+ .navbar-brand{
+margin-right: 300px;
+font-size: 25px;
+font-family: cursive;
+}
+.nav-link{
+  font-size: 25px;
+  font-family: cursive;
+}
+#save{
+  background-color: black;
+  color: white;
+}
+/*end nav section*/
+/*start app section*/
+.photo{
+  margin-top: 40px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+.app{
+  margin-top: 90px;
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+.text-app{
+  color: blue;
+  font-size: 30px;
+
+}
+/*end app section*/
+/*start tnw section*/
+.text{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.tnw{
+  background-color: blueviolet;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  color: white;
+  font-size: 25px;
+  font-family: cursive;
+  letter-spacing: 2px;
+  padding-left: 30px;
+}
+.master{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  font-size: 40px;
+  color: white;
+margin-right: 10px;
+}
+.next{
+display: flex;
+justify-content: center;
+color: white;
+}
+/*end tnw section*/
+#solid{
+font-size: 50px;
+}
+#photo2{
+  margin-right: 70px;
+}
+#sharp{
+  font-size: 50px;
+}
+#heart{
+  font-size: 50px;
+}
+#github{
+  font-size: 50px;
+}
+.enter img{
+border-radius: 250px;
+margin-left: 80px;
+}
+#solid{
+  margin-left: 40px;
+}
+/*start build section*/
+.build{
+  background-image: url(https://source.unsplash.com/5g41N3uRPf8/1500x800);
+ align-items: center;
+ display: flex;
+ height: 500px;
+ width: 100%;
+  background-size: cover;
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.build h2{
+  font-size: 30px;
+  font-family: cursive;
+  text-align: center;
+}
+.build button{
+color: white;
+text-align: center;
+padding: 10px;
+margin-left: 470px;
+margin-top: 30px;
+}
+.build:hover{
+  filter: brightness(.8);
+  cursor: pointer;
+}
+/*end build section*/
+/*start now section*/
+.now{
+  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.now h2{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 60px;
+}
+.img{
+  margin-left: 70px;
+  margin-top: 30px;
+  text-align: center;
+}
+/*end now section*/
